@@ -1,2 +1,1 @@
-print('versión 17')
-print('commit 2:')
+print('versión 18')
